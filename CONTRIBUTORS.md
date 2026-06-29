@@ -1,5 +1,4 @@
 # Contributors
-
 | Name | Role |
 |------|------|
 | Tejaswini C | GitHub Repository, README.md, CONTRIBUTORS.md |
