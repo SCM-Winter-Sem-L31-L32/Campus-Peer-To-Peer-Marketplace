@@ -97,6 +97,12 @@ textarea{
     margin-bottom:15px;
 }
 
+button{
+    background:#007BFF;
+    color:white;
+    border:none;
+    padding:12px 20px;
+    border-radius:5px;
 
 button{
     width:100%;
@@ -110,6 +116,7 @@ button{
 }
 
 button:hover{
+    background:#0056b3;
     background:#0b5ed7;
 }
 .card-container{
