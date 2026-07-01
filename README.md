@@ -1,7 +1,7 @@
 # Campus Peer-to-Peer Marketplace
 
 ## Project Description
-Campus Peer-to-Peer Marketplace is a web-based platform that allows students to buy, sell, and exchange used items within their campus community. The platform helps students save money, reduce waste, and connect with fellow students.
+Campus Peer-to-Peer Marketplace is a web based platform that allows students to buy, sell, and exchange used items within their campus community. The platform helps students save money, reduce waste items, and connect with fellow students easily.
 
 ## Features
 - Home Page
@@ -42,5 +42,5 @@ Campus Peer-to-Peer Marketplace is a web-based platform that allows students to 
 ## How to Run
 1. Download or clone the repository.
 2. Open the project in VS Code.
-3. Open `index.html` using Live Server.
-4. Explore
+3. Open `index.html' using Live Server.
+4. Explore the page
