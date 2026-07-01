@@ -9,7 +9,7 @@
 }
 
 body{
-    background:#FFF8F5;
+    background:#beige;
     color:#555;
 }
 
@@ -52,8 +52,8 @@ img{
 .container{
     width:60%;
     margin:30px auto;
-    background:white;
-    padding:20px;
+    background:Blue;
+    padding:25px;
     border-radius:10px;
     box-shadow:0 0 10px rgba(0,0,0,0.2);
 }
@@ -98,7 +98,7 @@ button:hover{
 
 .card{
     width:250px;
-    border:1px solid #ddd;
+    border:1px black;
     border-radius:10px;
     padding:15px;
     box-shadow:0 2px 8px rgba(0,0,0,0.2);
