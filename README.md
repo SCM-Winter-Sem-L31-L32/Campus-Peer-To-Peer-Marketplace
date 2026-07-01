@@ -23,8 +23,6 @@ A website where students can buy and sell used items within the campus.
 - Rachana C
 - Ganga S Murnal
 - Diya Sajan CN
-- Vaishnavi
-- Sahana S
 
 
 ## How to Run
