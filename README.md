@@ -1,6 +1,6 @@
 # Campus Peer-to-Peer Marketplace
 
-## Project Description
+## Project Documentation improved
 Campus Peer-to-Peer Marketplace is a web based platform that allows students to buy, sell, and exchange used items within their campus community. The platform helps students save money, reduce waste items, and connect with fellow students easily.
 
 ## Features
